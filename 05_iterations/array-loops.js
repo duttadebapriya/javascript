@@ -15,10 +15,6 @@ for (const greet of greetings) {
 
 // Maps - object that hols key-value pairs
 
-const map = new Map()
-map.set('IN', "India")
-map.set('USA', "United States of America")
-map.set('FR', "France")
 
 // console.log(map);
 
